@@ -44,6 +44,22 @@ footer {
     max-width: 800px;
 }
 
+#desciption_container h1{
+    justify-self: center;
+}
+
+#theme_changer{
+    border-width: 0px; 
+    background-color: transparent;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#theme_img{
+    transition: filter 0.5s ease;
+}
+
 footer {
     justify-content: center;
     align-content: center;
